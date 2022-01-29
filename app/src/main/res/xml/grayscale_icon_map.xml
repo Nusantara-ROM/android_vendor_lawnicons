@@ -50,7 +50,6 @@
     <icon drawable="@drawable/camera" package="org.lineageos.snap" name="Camera" />
     <icon drawable="@drawable/catogram" package="org.nift4.catox" name="Catogram" />
     <icon drawable="@drawable/catogram" package="ua.itaysonlab.messenger" name="Catogram" />
-    <icon drawable="@drawable/catogram" package="org.nift4.catox" name="Catogram" />
     <icon drawable="@drawable/citymapper" package="com.citymapper.app.release" name="Citymapper" />
     <icon drawable="@drawable/coins_ph" package="asia.coins.mobile" name="Coins.ph" />
     <icon drawable="@drawable/coinvero" package="com.candlestick_app" name="Coinvero" />
@@ -105,6 +104,8 @@
     <icon drawable="@drawable/gallery" package="com.oneplus.gallery" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.oppo.gallery3d" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.sec.android.gallery3d" name="Gallery" />
+    <icon drawable="@drawable/gallery_go" package="com.google.android.apps.photosgo" name="Gallery Go" />
+    <icon drawable="@drawable/gboard" package="com.google.android.inputmethod.latin" name="Gboard" />
     <icon drawable="@drawable/gcash" package="com.globe.gcash.android" name="GCash" />
     <icon drawable="@drawable/genius" package="com.genius.android" name="Genius" />
     <icon drawable="@drawable/github" package="com.github.android" name="GitHub" />
@@ -155,7 +156,6 @@
     <icon drawable="@drawable/kakaotalk" package="com.kakao.talk" name="KakaoTalk" />
     <icon drawable="@drawable/karwei" package="nl.karwei.app.android" name="KARWEI" />
     <icon drawable="@drawable/khan_academy" package="org.khanacademy.android" name="Khan Academy" />
-    <icon drawable="@drawable/kiwi_browser" package="com.kiwibrowser.browser" name="Kiwi Browser" />
     <icon drawable="@drawable/komoot" package="de.komoot.android" name="Komoot" />
     <icon drawable="@drawable/kucoin" package="com.kubi.kucoin" name="Kucoin" />
     <icon drawable="@drawable/life360" package="com.life360.android.safetymapd" name="Life360" />
@@ -175,7 +175,6 @@
     <icon drawable="@drawable/mi_files" package="com.mi.android.globalFileexplorer" name="MI Files" />
     <icon drawable="@drawable/microsoft365_admin" package="com.ms.office365admin" name="Microsoft 365 Admin" />
     <icon drawable="@drawable/microsoft_authenticator" package="com.azure.authenticator" name="Microsoft Authenticator" />
-    <icon drawable="@drawable/microsoft_edge_canary" package="com.microsoft.emmx.canary" name="Microsoft Edge Canary" />
     <icon drawable="@drawable/microsoft_edge" package="com.microsoft.emmx" name="Microsoft Edge" />
     <icon drawable="@drawable/microsoft_excel" package="com.microsoft.office.excel" name="Microsoft Excel" />
     <icon drawable="@drawable/microsoft_office" package="com.microsoft.office.officehubrow" name="Microsoft Office" />
@@ -204,9 +203,10 @@
     <icon drawable="@drawable/onedrive" package="com.microsoft.skydrive" name="OneDrive" />
     <icon drawable="@drawable/opera_browser" package="com.opera.browser" name="Opera Browser" />
     <icon drawable="@drawable/opera_gx" package="com.opera.gx" name="Opera GX" />
-    <icon drawable="@drawable/osmand_plus" package="net.osmand.plus" name="OsmAnd+" />
     <icon drawable="@drawable/osmand" package="net.osmand" name="OsmAnd" />
-    <icon drawable="@drawable/oto_music" package="com.piyush.music" name="Oto Music" />    
+    <icon drawable="@drawable/osmand_plus" package="net.osmand.plus" name="OsmAnd+" />
+    <icon drawable="@drawable/oto_music" package="com.piyush.music" name="Oto Music" />
+    <icon drawable="@drawable/ovinfo" package="nl.skywave.ovinfo" name="OVinfo" />
     <icon drawable="@drawable/paypal" package="com.paypal.android.p2pmobile" name="PayPal" />
     <icon drawable="@drawable/personal_safety" package="com.google.android.apps.safetyhub" name="Personal Safety" />
     <icon drawable="@drawable/picsart" package="com.picsart.studio" name="Picsart" />
@@ -264,8 +264,12 @@
     <icon drawable="@drawable/swift_backup" package="org.swiftapps.swiftbackup" name="Swift Backup" />
     <icon drawable="@drawable/sync" package="com.laurencedawson.reddit_sync.dev" name="Sync" />
     <icon drawable="@drawable/sync" package="com.laurencedawson.reddit_sync.pro" name="Sync" />
-    <icon drawable="@drawable/sync" package="com.laurencedawson.reddit_sync" name="Sync" />
+    <icon drawable="@drawable/syncthing" package="com.nutomic.syncthingandroid" name="Syncthing" />
     <icon drawable="@drawable/tapatalk_pro" package="com.quoord.tapatalk" name="Tapatalk Pro" />
+    <icon drawable="@drawable/tele2" package="nl.tele2.mytele2" name="Mijn Tele2" />
+    <icon drawable="@drawable/telegram" package="org.telegram.messenger" name="Telegram" />
+    <icon drawable="@drawable/telegram" package="org.telegram.messenger.beta" name="Telegram" />
+    <icon drawable="@drawable/telegram" package="org.telegram.messenger.web" name="Telegram" />
     <icon drawable="@drawable/telegram_x" package="org.thunderdog.challegram" name="Telegram X" />
     <icon drawable="@drawable/telegram_x" package="org.thunderdog.challegramtwo" name="Telegram X" />
     <icon drawable="@drawable/telegram" package="org.telegram.messenger.beta" name="Telegram" />
@@ -298,6 +302,7 @@
     <icon drawable="@drawable/yandex_mail" package="ru.yandex.mail" name="Mail" />
     <icon drawable="@drawable/yeelight" package="com.yeelight.cherry" name="Yeelight" />
     <icon drawable="@drawable/ymusic" package="com.kapp.youtube.final" name="YMusic" />
+    <icon drawable="@drawable/youtube" package="com.google.android.youtube" name="YouTube" />
     <icon drawable="@drawable/youtube_music" package="com.google.android.apps.youtube.music" name="YouTube Music" />
     <icon drawable="@drawable/youtube_tv" package="com.google.android.apps.youtube.unplugged" name="YouTube TV" />
     <icon drawable="@drawable/youtube_vanced" package="com.vanced.android.youtube" name="YouTube Vanced" />
