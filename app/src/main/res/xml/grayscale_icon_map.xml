@@ -159,6 +159,7 @@
     <icon drawable="@drawable/kakaotalk" package="com.kakao.talk" name="KakaoTalk" />
     <icon drawable="@drawable/karwei" package="nl.karwei.app.android" name="KARWEI" />
     <icon drawable="@drawable/khan_academy" package="org.khanacademy.android" name="Khan Academy" />
+    <icon drawable="@drawable/kiwi_browser" package="com.kiwibrowser.browser" name="Kiwi Browser" />
     <icon drawable="@drawable/komoot" package="de.komoot.android" name="Komoot" />
     <icon drawable="@drawable/kucoin" package="com.kubi.kucoin" name="Kucoin" />
     <icon drawable="@drawable/life360" package="com.life360.android.safetymapd" name="Life360" />
